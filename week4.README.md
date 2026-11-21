@@ -27,8 +27,10 @@ Out of scope for this phase
 - Advanced Canva features such as brand kits, team collaboration, and animation
 - Screenshots and other image assets
   
-6. Practice material
+5. Practice material
+   
 The earlier tutorial, "Creating a private GitHub repository", is saved under practice/create-private-repo.md. It is kept as practice material and is separate from this proposal. It was copied before README.md was rewritten, so the original wording is not lost.
 
-7. Tool choice
+6. Tool choice
+   
 I chose the GitHub web editor (the pencil icon on the file view) to write these documents because it needs no local setup and shows a live Markdown preview. It also records every change as a clear commit, which helps a reviewer see which file changed and why. Markdown keeps the files plain-text, so they can be reused and compared across later sessions.
